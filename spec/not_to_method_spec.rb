@@ -5,3 +5,4 @@ RSpec.describe 'not_to method' do
     expect([1, 2]).not_to eq([2, 1])
   end
 end
+
